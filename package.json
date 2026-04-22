@@ -1,0 +1,30 @@
+{
+  "name": "tablexport",
+  "title": "TableXport",
+  "description": "Convert tables from clipboard to Google Sheets",
+  "icon": "command-icon.png",
+  "author": "artem_k",
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "convert",
+      "title": "Convert Table from Clipboard",
+      "description": "Extract table data and open in TableXport",
+      "mode": "no-view"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^1.104.13"
+  },
+  "devDependencies": {
+    "@raycast/utils": "^1.0.0",
+    "@types/node": "20.8.10",
+    "@types/react": "18.2.27",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "ray dev",
+    "build": "ray build",
+    "fix-lint": "ray lint --fix"
+  }
+}
