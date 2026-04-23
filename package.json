@@ -10,7 +10,8 @@
       "name": "convert",
       "title": "Convert Table from Clipboard",
       "description": "Extract table data and open in TableXport",
-      "mode": "no-view"
+      "mode": "no-view",
+      "icon": "command-icon.png"
     }
   ],
   "dependencies": {
