@@ -1,15 +1,28 @@
 {
   "name": "tablexport",
   "title": "TableXport",
-  "description": "Convert tables from clipboard to Google Sheets",
+  "description": "Instantly convert tables from your clipboard to Google Sheets, Excel, or PDF. Perfect for AI-generated tables from ChatGPT, Claude, and Gemini.",
   "icon": "icon.png",
   "author": "artem_k",
+  "categories": [
+    "Data",
+    "Productivity",
+    "Developer Tools"
+  ],
+  "keywords": [
+    "table",
+    "converter",
+    "ai",
+    "sheets",
+    "csv",
+    "clipboard"
+  ],
   "license": "MIT",
   "commands": [
     {
       "name": "convert",
       "title": "Convert Table from Clipboard",
-      "description": "Extract table data and open in TableXport",
+      "description": "Extracts table data from clipboard and opens it in TableXport for quick export.",
       "mode": "no-view",
       "icon": "icon.png"
     }
