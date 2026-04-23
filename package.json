@@ -2,7 +2,7 @@
   "name": "tablexport",
   "title": "TableXport",
   "description": "Convert tables from clipboard to Google Sheets",
-  "icon": "command-icon.png",
+  "icon": "icon.png",
   "author": "artem_k",
   "license": "MIT",
   "commands": [
@@ -11,7 +11,7 @@
       "title": "Convert Table from Clipboard",
       "description": "Extract table data and open in TableXport",
       "mode": "no-view",
-      "icon": "command-icon.png"
+      "icon": "icon.png"
     }
   ],
   "dependencies": {
