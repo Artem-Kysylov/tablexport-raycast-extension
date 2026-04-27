@@ -9,7 +9,7 @@
     "Productivity",
     "Developer Tools"
   ],
-"keywords": [
+  "keywords": [
     "table",
     "converter",
     "ai",
@@ -37,9 +37,14 @@
     "@raycast/api": "^1.104.13"
   },
   "devDependencies": {
+    "@raycast/eslint-config": "^2.1.1",
     "@raycast/utils": "^1.0.0",
     "@types/node": "20.8.10",
     "@types/react": "18.2.27",
+    "@typescript-eslint/eslint-plugin": "^8.59.0",
+    "@typescript-eslint/parser": "^8.59.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.8.3",
     "typescript": "^5.2.2"
   },
   "scripts": {
