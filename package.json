@@ -9,13 +9,19 @@
     "Productivity",
     "Developer Tools"
   ],
-  "keywords": [
+"keywords": [
     "table",
     "converter",
     "ai",
     "sheets",
     "csv",
-    "clipboard"
+    "clipboard",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "deepseek",
+    "formatting",
+    "excel"
   ],
   "license": "MIT",
   "commands": [
